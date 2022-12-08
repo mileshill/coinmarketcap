@@ -1,5 +1,5 @@
 boto==2.44.0
-certifi==2017.7.27.1
+certifi==2022.12.7
 chardet==3.0.4
 cryptography==1.7.1
 google-compute-engine==2.7.1
